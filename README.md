@@ -1,12 +1,11 @@
 # Hi, I'm Phteve
 ## I'm a Developer and part-time Dungeon Master
 - 👀 I’m interested in DND 5e
-- 🌱 I’m currently learning software architecture
-- 💻 I’m currently working on a digital dungeon master screen
+- 🌱 I’m currently learning: project management
+- 💻 I’m currently working on: -
 
 ### Reach me here:
 [<img align="left" alt="Linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/steve-leinhoss/)
-[<img align="left" alt="Twitter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="padding-right:10px;" />](https://twitter.com/hiimphteve)
 <br />
 
 ### Language and Tools:
